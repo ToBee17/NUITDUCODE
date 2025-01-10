@@ -16,8 +16,9 @@ export default function Home() {
           <p className="text-xl md:text-2xl text-muted-foreground">
             Fight Against Your Bad Online Habits
           </p>
-          <Button size="lg" className="mt-8 text-lg group bg-yellow-500">
-            Play Now
+          <Button size="lg" className="mt-8 text-lg group bg-yellow-500" >
+            
+          <a href="https://isaacdemeers.github.io/" className='w-full h-full'>Play Now</a>
             <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
           </Button>
         </div>
